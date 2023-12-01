@@ -2,11 +2,9 @@
 /**
  * @package  Email Posts Information
 Plugin Name: Email Posts Information
-Plugin URI: http://www.finaldatasolutions.com/
 Description: This plugin simply email the posts information to an email may be admin user or someone else.
 Version: 1.0.1
-Author: Ibrar Ayoub
-Author URI: http://www.finaldatasolutions.com/
+Author: Muhammad Umair
 License: GPLv2 or later
 */
 require 'plugin-update-checker-master/plugin-update-checker.php';
